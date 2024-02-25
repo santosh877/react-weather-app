@@ -1,6 +1,7 @@
 <!-- @format -->
 
-![Application screenshot](./public/screenshot.png)
+![Application screenshot](file:///home/santosh-deepika/Pictures/Screenshots/Screenshot%20from%202024-02-25%2010-59-24.png)
+
 
 <br/>
 <br/>
