@@ -1,6 +1,6 @@
 <!-- @format -->
 
-![Application screenshot](./public/screenshot.png)
+![Application screenshot](./public/Screenshot.png)
 
 <br/>
 <br/>
